@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Arianos são conhecidos por sua coragem e entusiasmo, sendo líderes naturais.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Marte</planeta>
+    <caracteristicas>Aventureiro, determinado, energético, impulsivo.</caracteristicas>
+    <imagem>assets/imgs/aries.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Taurinos são leais e práticos, buscando estabilidade e apreciando as coisas boas da vida.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Vênus</planeta>
+    <caracteristicas>Paciente, confiável, trabalhador, teimoso.</caracteristicas>
+    <imagem>assets/imgs/touro.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Geminianos são comunicativos e curiosos, sempre em busca de novos conhecimentos.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Mercúrio</planeta>
+    <caracteristicas>Adaptável, curioso, versátil, indeciso.</caracteristicas>
+    <imagem>assets/imgs/gemeos.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Cancerianos são emotivos e protetores, com um forte vínculo com suas raízes e família.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Lua</planeta>
+    <caracteristicas>Intuitivo, sensível, protetor, emocional.</caracteristicas>
+    <imagem>assets/imgs/cancer.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Leoninos são confiantes e generosos, amando estar no centro das atenções.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Sol</planeta>
+    <caracteristicas>Orgulhoso, caloroso, criativo, vaidoso.</caracteristicas>
+    <imagem>assets/imgs/leao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Virginianos são organizados e detalhistas, com uma natureza analítica e prática.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Mercúrio</planeta>
+    <caracteristicas>Prático, analítico, perfeccionista, reservado.</caracteristicas>
+    <imagem>assets/imgs/virgem.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Librianos buscam harmonia e são diplomáticos, com uma forte apreciação pela beleza.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Vênus</planeta>
+    <caracteristicas>Diplomático, sociável, indeciso, equilibrado.</caracteristicas>
+    <imagem>assets/imgs/libra.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Escorpianos são intensos e apaixonados, com uma profunda compreensão emocional.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Plutão</planeta>
+    <caracteristicas>Determinado, misterioso, emocional, controlador.</caracteristicas>
+    <imagem>assets/imgs/escorpiao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Sagitarianos são aventureiros e otimistas, sempre buscando liberdade e novas experiências.</descricao>
+    <elemento>Fogo</elemento>
+    <planeta>Júpiter</planeta>
+    <caracteristicas>Otimista, sincero, aventureiro, impaciente.</caracteristicas>
+    <imagem>assets/imgs/sagitario.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>31/12</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Capricornianos são disciplinados e ambiciosos, focados em alcançar o sucesso a longo prazo.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Saturno</planeta>
+    <caracteristicas>Responsável, disciplinado, conservador, teimoso.</caracteristicas>
+    <imagem>assets/imgs/capricornio.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>01/01</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Capricornianos são disciplinados e ambiciosos, focados em alcançar o sucesso a longo prazo.</descricao>
+    <elemento>Terra</elemento>
+    <planeta>Saturno</planeta>
+    <caracteristicas>Responsável, disciplinado, conservador, teimoso.</caracteristicas>
+    <imagem>assets/imgs/capricornio.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>19/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Aquarianos são inovadores e independentes, com uma forte visão de futuro.</descricao>
+    <elemento>Ar</elemento>
+    <planeta>Urano</planeta>
+    <caracteristicas>Independente, progressista, idealista, excêntrico.</caracteristicas>
+    <imagem>assets/imgs/aquario.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>20/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Piscianos são sensíveis e empáticos, com uma forte conexão com o mundo dos sonhos.</descricao>
+    <elemento>Água</elemento>
+    <planeta>Netuno</planeta>
+    <caracteristicas>Compassivo, intuitivo, imaginativo, escapista.</caracteristicas>
+    <imagem>assets/imgs/peixes.jpg</imagem>
+  </signo>
+</signos>
